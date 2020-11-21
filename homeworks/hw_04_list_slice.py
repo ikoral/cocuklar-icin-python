@@ -25,3 +25,7 @@
 #           pizzas are:, and then use a for loop to print the first list Print the message,
 #           My friend’s favorite pizzas are:, and then use a for loop to print the second list
 #           Make sure each new pizza is stored in the appropriate list
+
+# 4.12 create exactly same list but this this it should be separate list
+# Values should be same, but address in memory should be different.
+
