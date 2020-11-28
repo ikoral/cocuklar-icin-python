@@ -30,3 +30,4 @@ for stone in stones[3:]:
 new_list = stones[3:]
 for stone in new_list:
     print(stone)
+
