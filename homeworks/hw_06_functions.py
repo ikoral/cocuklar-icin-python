@@ -8,3 +8,5 @@
 
 # And then it return total amount money to be paid as float
 # Pay: 475.0
+
+# ttl.academy functions bitir.
