@@ -5,3 +5,13 @@
 # your program should include the tax amount, the tip amount, and the grand total for
 # the meal including both the tax and the tip. Format the output so that all of the values
 # are displayed using two decimal places and € currency.
+
+# git checkout -b "exercises"
+
+# git status
+
+# git add .
+
+# git commit -m "your message"
+
+# git push origin exercises
